@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="CSS/styles.css">
+    <link rel="icon" href="images/favicon.ico">
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Hozefa's Portfolio</title>
+
+</head>
+<body>
+    <table>
+        <tr>
+            <td>
+                <img class="thumbnail" src = "images/me.jpg" alt="profile pic"></img>
+            </td>
+            <td>
+                <h1>Hozefa Mohammed Hussain</h1>
+                <p><em>Founder <strong><a href="https//google.com">Google</a></strong></em></p>
+                <p>I am a Developer. I ❤ table tennis</p>
+            </td>
+        </tr>
+    </table>
+    
+
+    <hr>
+    <h2>Courses Completed</h2>
+    <ul>
+        <li>Lorem Ipsum 1</li>
+        <li>Lorem ipsum 2</li>
+    </ul>
+
+    <!--work Experience-->
+    <h2>Work Experience</h2>
+
+    <table>
+        <tr>
+            <th>Company</th>
+            <th>Year</th>
+        </tr>
+        <tr>
+            <td>Oracle India</td>
+            <td>1 yr</td>
+        </tr>
+        <tr>
+            <td>lorem Ipsum</td>
+            <td>3yrs</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <!--Skills-->
+    <h2>Skills</h2>
+    <table>
+        <tr>
+            <th>Skills</th>
+        </tr>
+        <tr>
+            <td>Java</td><td>⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>HTML</td><td>⭐⭐⭐⭐⭐</td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <a href="hobbies.html">Hobbies</a>
+    <a href="contact-me.html">Contact me</a>
+</body>
+</html>
